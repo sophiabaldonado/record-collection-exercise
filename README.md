@@ -1,4 +1,4 @@
-# Record Store Collection
+# Record Collection
 Create and manipulate a SQLite database containing information about a record collection.
 
 ## Part 1: Live Code
