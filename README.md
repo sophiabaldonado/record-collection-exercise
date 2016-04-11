@@ -27,13 +27,13 @@ At the bottom of this README is a list of questions about the data. Each questio
 ```
 
 ### The Questions
-* How many albums are in the collection?
-* How many unique artist entries are in the collection?
-* Which artist has the most albums in the collection?
-* What is the oldest (earliest release year) release in the database?
-* Which album was most recently added to the collection?
-* What was the first album added to the collection?
-* How many albums were added to the collection in 2014?
-* How many albums were released between 1970 and 1979?
-* Which year has the most releases? How many albums were releases in that year?
-* What years between 1960 and 2010 have zero releases?
+1. How many albums are in the collection?
+1. How many unique artist entries are in the collection?
+1. Which artist has the most albums in the collection?
+1. What is the oldest (earliest release year) release in the database?
+1. Which album was most recently added to the collection?
+1. What was the first album added to the collection?
+1. How many albums were added to the collection in 2014?
+1. How many albums were released between 1970 and 1979?
+1. Which year has the most releases? How many albums were released in that year?
+1. What years between 1960 and 2010 have zero releases?
